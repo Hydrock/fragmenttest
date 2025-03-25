@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "fragmenttest"
 include(":app")
+
+
